@@ -4,7 +4,13 @@
 
 The website is based on [Jekyll](https://github.com/jekyll/jekyll).
 
-Run the command below to build the site :
+First run:
+
+```
+bundle install
+```
+
+Then the command below to build the site:
 
 ```
 bundle exec jekyll serve
