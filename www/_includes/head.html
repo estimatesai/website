@@ -1,17 +1,14 @@
-<!DOCTYPE html>
-<html>
 <head>
-    <meta charset="utf-8">
-    <title>
-        {% if page.title %}{{ page.title }} &middot; estimates.ai
-        {% else %}@estimatesai{% endif %}
-    </title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.description %}<meta name="description" content="{{ page.description }}">
-    {% elsif page.summary %}<meta name="description" content="{{ page.summary }}">
-    {% else %}<meta name="description" content="{{ site.description }}">{% endif %}
-    <link rel="icon" href="/favicon.png">
-    <link rel="alternate" type="application/rss+xml"  title="RSS"   href="/feed.xml" />
-    <link rel="stylesheet" href="/style.css" type="text/css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <meta property="og:image" content="{% if site.brand.image contains 'http' %}{{ site.brand.image }}{% else %}{{ site.post_assets | absolute_url }}{{ site.brand.image }}{% endif %}"/>
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
 </head>
-<body>
