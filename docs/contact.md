@@ -9,7 +9,7 @@ formspree:
 
 ##### We would be please to answer them!
 
-Estimates is designed and build in Paris, France.
+Estimates.ai is designed and built in Paris, France.
 
 To get in touch with us, drop us a line below.
 
