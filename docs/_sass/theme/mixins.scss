@@ -285,6 +285,12 @@ ul.doc-nav {
             &:hover {
                 color: $global-primary-background;
             }
+            img {
+                height: 64px;
+            }
+        }
+        .uk-search-icon {
+            display: none;
         }
     }
     .section-title {
