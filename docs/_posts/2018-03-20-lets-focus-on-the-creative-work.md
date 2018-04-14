@@ -27,4 +27,4 @@ If you want to be one of the first to get Estimates, or if you want to read abou
 — Louis
 
 [@destroytoday]:    https://twitter.com/destroytoday
-[mailchimp-sub]:    https://estimates.ai
+[mailchimp-sub]:    #subscribe

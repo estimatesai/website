@@ -3,7 +3,7 @@ layout: contact
 title: Got Any Questions?
 permalink: /contact/
 formspree:
-    email: accounts@louis.io
+    email: contact@estimates.ai
     redirect: /thanks/
 ---
 
