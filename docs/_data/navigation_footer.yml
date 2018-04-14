@@ -1,10 +1,10 @@
 # Footer navigation links
 
-- title: Help
+- title: Home
   url: /
 
-- title: News
-  url: /news/
+- title: Journal
+  url: /journal/lets-focus-on-the-creative-work/
 
 - title: Contact
   url: /contact/

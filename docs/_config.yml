@@ -29,9 +29,12 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    peter:
+    louis:
         name:       Louis Rouffineau
         github:     lourou    # Github username for avatar
+    gwenth:
+        name:       Gwenaëlle
+        github:     gwenth    # Github username for avatar
 
 # Social icons displayed in footer
 social:
@@ -54,7 +57,7 @@ twitter_username:
 
 # Default footer image settings
 footer:
-    copyright:      Made by Louis & Gwen from <a href="https://www.lacompany.com">Lacompany</a> somewhere on the planet earth.
+    copyright:      Made in France 🇫🇷while eating 🧀🥖and 🥐
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:

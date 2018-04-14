@@ -1,14 +1,16 @@
 ---
 layout: contact
-title: Got Any Questions
+title: Got Any Questions?
 permalink: /contact/
 formspree:
-    email: my_name@gmail.com
+    email: accounts@louis.io
     redirect: /thanks/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### We would be please to answer them!
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Estimates is designed and build in Paris, France.
 
-{% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
+To get in touch with us, drop us a line below.
+
+{% include map.html latitude="48.871334048" longitude="2.3481000" zoom="6" %}
