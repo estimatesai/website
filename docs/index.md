@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: "Create and send estimates, focus on creative work."
-    subtitle: "Wether you are a developer, a designer or an agency: quickly craft detailed estimates, share them with your peers, win projects and focus on the creative work."
+    title: "Create estimates with your team, focus on creative work."
+    subtitle: "Are you a developer, a designer or an agency? Quickly craft detailed estimates, share them with your peers, win projects and focus on the creative work."
     image: bg-hot-air-balloon.svg
     search: false
 categories:
