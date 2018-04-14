@@ -67,7 +67,7 @@ disqus:
 google_analytics:
 
 # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
-google_maps_api_key:
+google_maps_api_key: AIzaSyAMJ2a9h_JPocUjk2ohnoMAk6Ep1jtbMx4
 
 # Number of posts displayed on blog page
 paginate: 10
